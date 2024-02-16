@@ -2,7 +2,7 @@ Hi, I'm Dominika👋
 -------------------------------------------------------
 I'm a second-year student of Data Science at the Warsaw University of Technology.
 
-You can contact me at [dominika.gimzicka@gmail.com](mailto:dominika.gimzicka@gmail.com)
+You can contact me at dominika.gimzicka@gmail.com
 
 -------------------------------------------------------
 Languages and Data Analysis:
