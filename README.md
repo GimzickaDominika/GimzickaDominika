@@ -1,10 +1,10 @@
-### Hi, I'm Dominika👋
-=========================================================================================================================================
+Hi, I'm Dominika👋
+-------------------------------------------------------
 I'm a Data Science student at Warsaw University of Technology
 
 
 
--------------------------------------------------------
+
 
 *   🌍  I'm based in Poland
 *   ✉️  You can contact me at [dominika.gimzicka@gmail.com](mailto:dominika.gimzicka@gmail.com)
