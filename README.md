@@ -1,6 +1,6 @@
 Hi, I'm Dominika👋
 -------------------------------------------------------
-I'm a Data Science student at Warsaw University of Technology
+I'm a second-year student of Data Science at the Warsaw University of Technology.
 
 
 
