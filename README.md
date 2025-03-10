@@ -1,6 +1,6 @@
 Hi, I'm Dominika👋
 -------------------------------------------------------
-I'm a second-year student of Data Science at the Faculty of Mathematics and Information Science at the Warsaw University of Technology.
+I'm a third-year student of Data Science at the Faculty of Mathematics and Information Science at the Warsaw University of Technology.
 
 You can contact me at [dominika.gimzicka@gmail.com](mailto:dominika.gimzicka@gmail.com)
 
